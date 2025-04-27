@@ -1,0 +1,59 @@
+Photon IDE – End User License Agreement (EULA)
+Effective Date: 27/04/2025
+
+This End User License Agreement ("Agreement") is a legal contract between you ("User") and mstchristian ("Developer"), governing your use of Photon IDE, including its Editor, associated binaries, assets, configuration files (including but not limited to JSON files for languages, themes, or settings), and all related components ("the Software").
+
+By installing, copying, executing, or otherwise using the Software, you expressly agree to be bound by the terms and conditions of this Agreement.
+
+1. Protection under International Law
+The Software and its components are protected by applicable copyright and intellectual property laws, including, but not limited to, the Berne Convention for the Protection of Literary and Artistic Works and other international treaties. Unauthorized use, reproduction, or distribution of the Software is strictly prohibited.
+
+2. Prohibition of Reverse Engineering
+You shall not decompile, decrypt, reverse engineer, disassemble, or attempt to derive the source code, structure, or ideas from the Software or any portion thereof.
+
+3. Restrictions on Modification, Distribution, and Sale
+You shall not modify, adapt, translate, sublicense, lease, rent, sell, distribute, or create derivative works based on the Software, including but not limited to its code, binaries, configuration files (e.g., JSON files), assets, or any encrypted data, in whole or in part, without prior written consent from the Developer.
+
+4. Restrictions on Asset and Data File Usage
+All assets, including but not limited to images, sounds, and configuration files (such as themes, language files, or settings), are licensed exclusively for internal use within the Software. Extraction, alteration, redistribution, or any separate use of these assets or data files is strictly forbidden.
+
+5. Commercial Use of User-Created Applications
+Applications, games, or other works created using the Software may be published and used for commercial purposes without additional authorization from the Developer.
+
+Ownership of the user-created works remains with the User, provided that:
+
+No part of the Software (including binaries, assets, or configuration files) is redistributed or included, and
+
+No provision of this Agreement is violated.
+
+This permission does not authorize modification, distribution, sublicensing, or resale of the Software itself.
+
+6. Disclaimer of Warranties
+The Software is provided "as is" without any express or implied warranty, including, but not limited to, warranties of merchantability, fitness for a particular purpose, accuracy, or non-infringement.
+
+7. Limitation of Liability
+In no event shall the Developer be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from or related to the use of or inability to use the Software, even if advised of the possibility of such damages.
+
+8. User Responsibility
+The User assumes full responsibility for any actions taken using the Software, including any illegal, unethical, or unauthorized activities. The Developer disclaims any liability for such actions.
+
+9. Amendments to this Agreement
+The Developer reserves the right to amend this Agreement at any time without prior notice. However, amendments shall not apply retroactively to projects created under earlier versions unless the User expressly accepts the new terms.
+
+10. Applicability of the Latest Agreement
+By continuing to use the Software, you agree that the most recent version of this Agreement shall automatically govern your use, regardless of the version of the Software installed.
+
+11. No Obligation to Include License in Created Works
+You are not required to incorporate this License Agreement into the source code of any project created using the Software. However, all such projects must fully comply with the terms herein.
+
+12. Applicability Independent of Software References
+This Agreement applies fully to the Software, whether or not it is explicitly referenced within the Software’s source code, binaries, assets, or documentation.
+
+13. Governing Law and Dispute Resolution
+This Agreement shall be governed and construed in accordance with the laws of Spain and the applicable international treaties regarding intellectual property protection.
+
+In the event of any dispute, the parties submit to the exclusive jurisdiction of the competent courts in the Developer’s jurisdiction.
+Where applicable, disputes shall be interpreted under the general principles of international copyright protection.
+
+Acceptance of Agreement
+By installing, executing, or otherwise using the Software, you acknowledge that you have read, understood, and agreed to be legally bound by the full terms and conditions of this Agreement.
